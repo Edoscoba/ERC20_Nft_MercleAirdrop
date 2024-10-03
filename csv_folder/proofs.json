@@ -1,0 +1,98 @@
+[
+  {
+    "address": "0xaAa2DA255DF9Ee74C7075bCB6D81f97940908A5D",
+    "tokenId": 123,
+    "proof": [
+      "0xf80474090df47a27464d7882848ba2de08707d632833b39eb464a590bae0eb0d",
+      "0xe9fa36fbbc544358afff1c09933b9b8c51f5465d018d7344d319cd56c2a5fa0f",
+      "0x4d51be0a2fe6af6eebca1e2165cacc8bc3f6ff3336ea3a454e15f3ef77c4d49f",
+      "0xa5ad9d759c8fbfc6373db637236ddf9c45b4a07b8481dde85bf4d3f4e2905ed3"
+    ]
+  },
+  {
+    "address": "0x1234567890abcdef1234567890abcdef12345678",
+    "tokenId": 124,
+    "proof": [
+      "0x9c4ce705be263f68b3b5462b4736f37f8e9ab7207206a14ce2a608a894e79e88",
+      "0xe9fa36fbbc544358afff1c09933b9b8c51f5465d018d7344d319cd56c2a5fa0f",
+      "0x4d51be0a2fe6af6eebca1e2165cacc8bc3f6ff3336ea3a454e15f3ef77c4d49f",
+      "0xa5ad9d759c8fbfc6373db637236ddf9c45b4a07b8481dde85bf4d3f4e2905ed3"
+    ]
+  },
+  {
+    "address": "0xabcdefabcdefabcdefabcdefabcdefabcdefabcd",
+    "tokenId": 312,
+    "proof": [
+      "0x4a9d5959940ce5f402afb4826989a89d076c537a0416dfcded2e21aeca7b035c",
+      "0xab0c4d4c7a4a125ef0f05c06b7b0b55a556d9e96cd3c6149aeb73072bb748049",
+      "0x4d51be0a2fe6af6eebca1e2165cacc8bc3f6ff3336ea3a454e15f3ef77c4d49f",
+      "0xa5ad9d759c8fbfc6373db637236ddf9c45b4a07b8481dde85bf4d3f4e2905ed3"
+    ]
+  },
+  {
+    "address": "0x456789abcdef456789abcdef456789abcdef4567",
+    "tokenId": 503,
+    "proof": [
+      "0x4baa66bd9d733494ad99b542fa5c746c3d545ba2c67874b423b15bd7e8a1bb08",
+      "0xab0c4d4c7a4a125ef0f05c06b7b0b55a556d9e96cd3c6149aeb73072bb748049",
+      "0x4d51be0a2fe6af6eebca1e2165cacc8bc3f6ff3336ea3a454e15f3ef77c4d49f",
+      "0xa5ad9d759c8fbfc6373db637236ddf9c45b4a07b8481dde85bf4d3f4e2905ed3"
+    ]
+  },
+  {
+    "address": "0x234567890abcdef234567890abcdef234567890a",
+    "tokenId": 204,
+    "proof": [
+      "0x41d736b477595c1b9d247c9595ea57bfc5653c62306e3fb5f821a0909205e234",
+      "0xd7196298b09d595e29788e970d0b87152a2215a15d27b35a9b59cb091d5a39d5",
+      "0x4a634deb37a37c10098538ae21af8671616b59bf214352bc7fddcb63826c2c31",
+      "0xa5ad9d759c8fbfc6373db637236ddf9c45b4a07b8481dde85bf4d3f4e2905ed3"
+    ]
+  },
+  {
+    "address": "0x7890abcdef7890abcdef7890abcdef7890abcdef",
+    "tokenId": 300,
+    "proof": [
+      "0x6b872ffad683ff16c23f253f3c7eb33386b961ca6717bfdff99ed3595be78aad",
+      "0xd7196298b09d595e29788e970d0b87152a2215a15d27b35a9b59cb091d5a39d5",
+      "0x4a634deb37a37c10098538ae21af8671616b59bf214352bc7fddcb63826c2c31",
+      "0xa5ad9d759c8fbfc6373db637236ddf9c45b4a07b8481dde85bf4d3f4e2905ed3"
+    ]
+  },
+  {
+    "address": "0xabcdef012345abcdef012345abcdef012345abcd",
+    "tokenId": 500,
+    "proof": [
+      "0xcd024f0edeff40123f0181b021435cefc250b7f6bf7b12eac4d08d25b5647301",
+      "0xdfefd8da20d23ba5335500afb2e4b5ae9074d21dfc85282d5da24f721ff117ef",
+      "0x4a634deb37a37c10098538ae21af8671616b59bf214352bc7fddcb63826c2c31",
+      "0xa5ad9d759c8fbfc6373db637236ddf9c45b4a07b8481dde85bf4d3f4e2905ed3"
+    ]
+  },
+  {
+    "address": "0x567890abcdef567890abcdef567890abcdef5678",
+    "tokenId": 400,
+    "proof": [
+      "0xdde98957cfba055f6da5e97eee3a25852bb37e2bcf4c40ef0d8697a2f39d830e",
+      "0xdfefd8da20d23ba5335500afb2e4b5ae9074d21dfc85282d5da24f721ff117ef",
+      "0x4a634deb37a37c10098538ae21af8671616b59bf214352bc7fddcb63826c2c31",
+      "0xa5ad9d759c8fbfc6373db637236ddf9c45b4a07b8481dde85bf4d3f4e2905ed3"
+    ]
+  },
+  {
+    "address": "0x3456789012343456789012343456789012343456",
+    "tokenId": 100,
+    "proof": [
+      "0x20a85b73f51e7b67c2b99ab8cf2b9882e8c29542219b1c22c2cf2c9530113428",
+      "0x7091fe7354afed467e8a88f00d91d52f3bb7751beb2a7a9d9fd660b4346c930f"
+    ]
+  },
+  {
+    "address": "0xabcdefabcdefabcdefabcdefabcdefabcdef0123",
+    "tokenId": 200,
+    "proof": [
+      "0x4e88de2d279ec659fce4dd0e09f310d64ce5b146f53987dc38265eb5a31d8e3a",
+      "0x7091fe7354afed467e8a88f00d91d52f3bb7751beb2a7a9d9fd660b4346c930f"
+    ]
+  }
+]
